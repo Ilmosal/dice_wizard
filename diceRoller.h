@@ -1,0 +1,1 @@
+int *throwDice(char* diceRoll);
