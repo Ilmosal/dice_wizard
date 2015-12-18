@@ -1,0 +1,2 @@
+all: 
+        gcc -o diceWizard main.c UI.c UI.h diceRoller.h diceRoller.c /home/cubanfrog/Documents/Programs/mtwist-1.5/mtwist.h /home/cubanfrog/Documents/Programs/mtwist-1.5/mtwist.c -lncurses
